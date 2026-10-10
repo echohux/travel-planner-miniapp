@@ -2,6 +2,12 @@
 
 A WeChat mini-program MVP for travelers who have booked flights and hotels but still need a practical daily itinerary.
 
+## 在线体验 · Live Demo
+
+**[打开 H5 体验版](https://echohux.github.io/travel-planner-miniapp/)**
+
+The browser demo reproduces the core planning flow. WeChat-only capabilities may behave differently from the mini-program build.
+
 ## Product problem
 
 Trip planning often becomes a fragmented mix of notes, map searches and booking reminders. This prototype turns selected attractions and a hotel location into a day-by-day plan with transport and reservation guidance.
